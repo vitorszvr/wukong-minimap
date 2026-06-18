@@ -1,0 +1,25 @@
+# ================== WUKONG MINIMAP CONFIG ==================
+
+# round or square
+shape = square          
+
+# position in proportion (0 --> 1)
+pos_x = 0.98
+pos_y = 0.04
+
+# map size (0 --> 1)
+size = 0.3
+
+# internal map size (0 --> 1)
+zoom = 0.1
+
+# the speed of zoom and size increase and decrease (0 --> 1)
+step = 0.02
+
+# key
+toggle_minimap = 0
+size_decrease = -
+size_increase = =
+zoom_decrease = - 
+zoom_increase = =  
+reload_config = f5
